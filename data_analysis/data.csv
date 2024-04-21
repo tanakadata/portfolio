@@ -1,0 +1,15 @@
+age,sex,academic_level,alcohol,smoking,diagnosis,depression,game_frequency,game_time,tmt_score_before(s),tmt_score_after(s)
+76,female,12,0,0,schizophrenia,0,3,30,299.96 ,242.77 
+82,male,12,0,1,depression,0,6,60,129.94 ,127.37 
+52,male,9,0,1,schizophrenia,0,5,50,145.18 ,115.90 
+63,female,12,0,0,schizophrenia,0,2,60,114.70 ,65.45 
+75,male,16,1,1,schizophrenia,0,4,40,254.51 ,240.90 
+67,male,9,0,1,schizophrenia,0,5,50,72.32 ,65.35 
+64,male,9,1,1,schizophrenia,0,2,20,299.10 ,246.74 
+58,male,12,1,0,schizophrenia,0,5,50,201.17 ,165.93 
+73,male,14,0,1,schizophrenia,0,2,20,150.25 ,166.39 
+71,male,9,1,0,schizophrenia,0,3,30,110.00 ,165.82 
+69,female,12,1,0,schizophrenia,0,6,60,72.30 ,76.82 
+41,male,9,1,1,schizophrenia,0,3,30,121.75 ,97.08 
+62,female,12,0,0,schizophrenia,0,1,10,60.79 ,49.04 
+55,female,9,0,0,schizophrenia,0,2,20,383.71 ,383.86 
